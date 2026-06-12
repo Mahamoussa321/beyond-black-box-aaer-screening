@@ -12,3 +12,5 @@ Thumbs.db
 # Logs
 *.log
 publication_pipeline_log.txt
+
+data/*.csv
