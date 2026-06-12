@@ -1,0 +1,33 @@
+feature,description
+log_assets,Firm size: log total assets.
+liabilities_assets,Leverage: liabilities divided by assets.
+roa,Profitability: net income divided by assets.
+net_margin,Net income divided by revenue.
+cash_assets,Cash intensity: cash divided by assets.
+receivables_assets,Receivables divided by assets.
+inventory_assets,Inventory divided by assets.
+current_ratio,Current assets divided by current liabilities.
+debt_assets,Debt divided by assets.
+revenue_growth,Year-over-year revenue growth from SEC panel.
+assets_growth,Year-over-year asset growth from SEC panel.
+gross_margin,Gross profit divided by revenue.
+operating_margin,Operating income divided by revenue.
+working_capital_assets,Working capital divided by assets.
+asset_quality_proxy,Proxy for non-current/less liquid asset share.
+receivables_revenue,Receivables divided by revenue.
+inventory_revenue,Inventory divided by revenue.
+debt_equity,Debt divided by equity.
+loss_flag,Indicator for negative net income.
+negative_equity_flag,Indicator for negative equity.
+dsri_proxy,Beneish-style days-sales-in-receivables proxy.
+gmi_proxy,Beneish-style gross-margin index proxy.
+aqi_proxy,Beneish-style asset-quality index proxy.
+sgi,Beneish-style sales-growth index.
+lvgi,Beneish-style leverage index.
+debt_assets_change,Change in debt-to-assets.
+roa_change,Change in return on assets.
+gross_margin_change,Change in gross margin.
+receivables_growth,Receivables growth.
+inventory_growth,Inventory growth.
+debt_growth,Debt growth.
+total_accruals_assets_proxy,Working-capital accruals proxy divided by assets.

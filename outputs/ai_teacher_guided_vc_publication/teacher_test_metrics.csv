@@ -1,0 +1,2 @@
+model,roc_auc,pr_auc_average_precision,brier_score,positives,n
+LightGBM Teacher,0.7272022042376672,0.03153327291163733,0.0016191607301533732,40,24629

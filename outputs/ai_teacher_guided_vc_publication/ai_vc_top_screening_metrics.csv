@@ -1,0 +1,15 @@
+model,screening_rule,selected_n,true_positives_found,precision,recall,lift_over_random
+VC Student (validation-selected),Top-K=positives,40,0,0.0,0.0,0.0
+VC Student (validation-selected),Top 1%,246,3,0.012195121951219513,0.075,7.508841463414635
+VC Student (validation-selected),Top 5%,1231,8,0.006498781478472786,0.2,4.001462225832657
+VC Student (validation-selected),Top 10%,2463,14,0.005684125050751117,0.35,3.4998578968737317
+VC Student (validation-selected),Top 100,100,0,0.0,0.0,0.0
+VC Student (validation-selected),Top 250,250,3,0.012,0.075,7.388700000000001
+VC Student (validation-selected),Top 500,500,6,0.012,0.15,7.388700000000001
+AI-guided VC Student,Top-K=positives,40,0,0.0,0.0,0.0
+AI-guided VC Student,Top 1%,246,3,0.012195121951219513,0.075,7.508841463414635
+AI-guided VC Student,Top 5%,1231,10,0.008123476848090982,0.25,5.00182778229082
+AI-guided VC Student,Top 10%,2463,13,0.005278116118554608,0.325,3.2498680470970362
+AI-guided VC Student,Top 100,100,1,0.01,0.025,6.15725
+AI-guided VC Student,Top 250,250,3,0.012,0.075,7.388700000000001
+AI-guided VC Student,Top 500,500,7,0.014,0.175,8.62015

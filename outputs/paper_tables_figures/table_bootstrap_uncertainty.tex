@@ -1,0 +1,15 @@
+\begin{table}[!ht]
+\centering
+\caption{Percentile bootstrap uncertainty summary for key screening metrics}
+\label{tab:bootstrap}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Metric} & \textbf{LightGBM Teacher} & \textbf{Unguided VC Student} & \textbf{AI-Guided VC Student} \\
+\midrule
+ROC-AUC & 0.727 [0.654, 0.799] & 0.719 [0.643, 0.799] & 0.728 [0.655, 0.806] \\
+PR-AUC & 0.0315 [0.0032, 0.0964] & 0.0052 [0.0030, 0.0106] & 0.0064 [0.0032, 0.0147] \\
+Top-5% Recall & 20.0\% [7.3\%, 32.6\%] & 20.0\% [8.5\%, 34.1\%] & 25.0\% [12.5\%, 39.3\%] \\
+Top-5% Lift & 4.00 [1.46, 6.53] & 4.00 [1.70, 6.82] & 5.00 [2.50, 7.86] \\
+\bottomrule
+\end{tabular}
+\end{table}
